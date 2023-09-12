@@ -1,19 +1,32 @@
-![Header image](github-header.png)
+![Header image](images/github-header.png)
 
-### Hi, I'm Justin 👋
+## About Me&nbsp;:wave:
+```yaml
+name: Justin Sima
+current_job_title: Data Scientist
+current_employer: SpareBox Storage
 
+interests: [
+    "Data Science",
+    "Machine Learning Engineering",
+    "Mathematics",
+    "Problem Solving",
+]
+education: [
+    "Master's in Mathematics",
+    "Bachelor's in Mathematics",
+    "Minor in Statistics",
+]
 
-<!--
-**JustinSima/JustinSima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🚀 &nbsp;Some Tools I Use</h2>
+    <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="45" height="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" width="45" height="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" width="45" height="45"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
+    </p>
