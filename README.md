@@ -10,7 +10,7 @@ interests: [
     "Data Science",
     "Machine Learning Engineering",
     "Mathematics",
-    "Problem Solving",
+    "Statistics",
 ]
 education: [
     "Master's in Mathematics",
