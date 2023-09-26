@@ -2,9 +2,9 @@
 
 ## About Me&nbsp;:wave:
 ```yaml
-name: Justin Sima
-current_job_title: Data Scientist
-current_employer: SpareBox Storage
+name: "Justin Sima"
+current_job_title: "Data Scientist"
+current_employer: "SpareBox Storage"
 
 interests: [
     "Data Science",
