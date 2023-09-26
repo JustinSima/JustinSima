@@ -11,6 +11,9 @@ interests: [
     "Machine Learning Engineering",
     "Mathematics",
     "Statistics",
+    "Training Models",
+    "Finding Patterns",
+    "Solving Problems",
 ]
 education: [
     "Master's in Mathematics",
