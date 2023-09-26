@@ -15,11 +15,6 @@ interests: [
     "Finding Patterns",
     "Solving Problems",
 ]
-education: [
-    "Master's in Mathematics",
-    "Bachelor's in Mathematics",
-    "Minor in Statistics",
-]
 
 ```
 
