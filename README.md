@@ -1,6 +1,6 @@
 ![Header image](images/github-header.png)
 
-## About Me&nbsp;:wave:
+## About Me&nbsp; :wave:
 ```yaml
 name: "Justin Sima"
 current_job_title: "Data Scientist"
