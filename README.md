@@ -8,9 +8,9 @@ current_employer: "SpareBox Storage"
 
 interests: [
     "Data Science",
-    "Machine Learning Engineering",
     "Mathematics",
     "Statistics",
+    "Machine Learning Engineering",
     "Training Models",
     "Finding Patterns",
     "Solving Problems",
