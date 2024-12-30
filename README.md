@@ -10,9 +10,10 @@ interests: [
     "Data Science",
     "Mathematics",
     "Statistics",
-    "Machine Learning Engineering",
-    "Training Models",
+    "Analytics",
+    "Revenue Management",
     "Finding Patterns",
+    "Creating Models",
     "Solving Problems",
 ]
 
